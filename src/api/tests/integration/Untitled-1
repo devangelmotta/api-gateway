@@ -1,0 +1,15 @@
+queued handler - > entry route - > publisher
+
+consumer ->
+
+    route waiting dispatch event RxJS ->
+    -> auth model
+    -> auth controller -> auth validations
+    -> auth route
+
+queued handler - > entry route - >
+
+consumer ->
+    -> notes model
+    -> notes controller - notes validations
+    -> notes route

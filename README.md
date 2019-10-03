@@ -25,7 +25,7 @@ And finally the frontend:
 #### Clone the repo and make it yours:
 
 ```bash
-git clone --depth 1 https://github.com/devangelmotta/save-notes-microservice-example <ANY_FRIENDLIER_NAME>
+git clone --depth 1 https://github.com/devangelmotta/api-gateway.git <ANY_FRIENDLIER_NAME>
 cd <ANY_FRIENDLIER_NAME>
 ```
 
